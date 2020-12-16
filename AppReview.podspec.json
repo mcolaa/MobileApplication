@@ -5,3 +5,4 @@
   "summary": "⭐️ A tiny library to request review on the AppStore",
   "homepage": "https://github.com/mezhevikin/AppReview",
   "license": {
+    "type": "MIT",

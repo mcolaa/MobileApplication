@@ -12,3 +12,7 @@
     "Mezhevikin Alexey": "mezhevikin@gmail.com"
   },
   "source": {
+    "git": "https://github.com/mezhevikin/AppReview.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {

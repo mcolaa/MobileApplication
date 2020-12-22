@@ -20,3 +20,4 @@
     "osx": "10.14"
   },
   "source_files": "Sources/**/*",
+  "pushed_with_swift_version": "5.5",

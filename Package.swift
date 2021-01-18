@@ -6,3 +6,4 @@ let package = Package(
     name: "AppReview",
     platforms: [
         .iOS(.v11),
+        .macOS(.v10_14)

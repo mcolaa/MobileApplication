@@ -9,3 +9,7 @@ let package = Package(
         .macOS(.v10_14)
     ],
     products: [
+        .library(
+            name: "AppReview",
+            targets: ["AppReview"]),
+    ],

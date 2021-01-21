@@ -13,3 +13,4 @@ let package = Package(
             name: "AppReview",
             targets: ["AppReview"]),
     ],
+    dependencies: [

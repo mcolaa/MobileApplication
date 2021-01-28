@@ -22,3 +22,5 @@ let package = Package(
             dependencies: []),
         .testTarget(
             name: "AppReviewTests",
+            dependencies: ["AppReview"]),
+    ]

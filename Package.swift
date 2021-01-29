@@ -24,3 +24,4 @@ let package = Package(
             name: "AppReviewTests",
             dependencies: ["AppReview"]),
     ]
+)

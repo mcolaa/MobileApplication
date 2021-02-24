@@ -1,3 +1,3 @@
 # AppReview
 
-⭐️ A ti
+⭐️ A tiny

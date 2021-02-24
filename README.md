@@ -1,3 +1,3 @@
 # AppReview
 
-⭐️ A tiny libra
+⭐️ A tiny library

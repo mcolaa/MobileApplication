@@ -1,3 +1,3 @@
 # AppReview
 
-⭐️ A tiny library to request revie
+⭐️ A tiny library to request review

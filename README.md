@@ -2,4 +2,4 @@
 
 ⭐️ A tiny library to request review on the AppStore.
 
-This is wrapper ar
+This is wrapper aro

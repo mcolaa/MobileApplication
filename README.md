@@ -2,4 +2,4 @@
 
 ⭐️ A tiny library to request review on the AppStore.
 
-This is wrapper around nati
+This is wrapper around nativ

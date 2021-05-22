@@ -4,4 +4,4 @@
 
 This is wrapper around native SKStoreReviewController.
 
-### Re
+### Revie

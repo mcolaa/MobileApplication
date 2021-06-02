@@ -4,4 +4,4 @@
 
 This is wrapper around native SKStoreReviewController.
 
-### Review after 3 lau
+### Review after 3 laun

@@ -7,3 +7,4 @@ This is wrapper around native SKStoreReviewController.
 ### Review after 3 launches
 ```swift
 AppReview.requestIf(launches: 3)
+``

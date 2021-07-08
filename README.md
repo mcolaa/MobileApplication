@@ -9,4 +9,4 @@ This is wrapper around native SKStoreReviewController.
 AppReview.requestIf(launches: 3)
 ```
 
-### R
+### Re

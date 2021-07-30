@@ -14,4 +14,4 @@ AppReview.requestIf(launches: 3)
 AppReview.requestIf(days: 5)
 ```
 
-### Review af
+### Review afte

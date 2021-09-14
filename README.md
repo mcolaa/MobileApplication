@@ -16,4 +16,4 @@ AppReview.requestIf(days: 5)
 
 ### Review after 3 launches and 5 days
 ```swift
-AppReview.requestIf(launches: 3, days
+AppReview.requestIf(launches: 3, days:

@@ -18,3 +18,4 @@ AppReview.requestIf(days: 5)
 ```swift
 AppReview.requestIf(launches: 3, days: 5)
 ```
+

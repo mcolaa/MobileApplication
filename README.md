@@ -21,3 +21,4 @@ AppReview.requestIf(launches: 3, days: 5)
 
 ### Review after purchase
 ```swift
+A

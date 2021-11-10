@@ -23,3 +23,4 @@ AppReview.requestIf(launches: 3, days: 5)
 ```swift
 AppReview().requestIfNeeded()
 ```
+

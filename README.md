@@ -26,4 +26,4 @@ AppReview().requestIfNeeded()
 
 ### Using
 
-You ca
+You can c

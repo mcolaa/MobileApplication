@@ -26,4 +26,4 @@ AppReview().requestIfNeeded()
 
 ### Using
 
-You can call Ap
+You can call App

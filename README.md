@@ -27,4 +27,4 @@ AppReview().requestIfNeeded()
 ### Using
 
 You can call AppReview in
-* SceneDelegate.sceneWillEnterFo
+* SceneDelegate.sceneWillEnterFor

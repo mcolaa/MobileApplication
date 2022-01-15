@@ -28,4 +28,4 @@ AppReview().requestIfNeeded()
 
 You can call AppReview in
 * SceneDelegate.sceneWillEnterForeground()
-* AppDelegate.applicationDidFinishLau
+* AppDelegate.applicationDidFinishLaun

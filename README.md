@@ -30,4 +30,4 @@ You can call AppReview in
 * SceneDelegate.sceneWillEnterForeground()
 * AppDelegate.applicationDidFinishLaunching()
 * ViewController.viewDidLoad()
-* View.onAppe
+* View.onAppea

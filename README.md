@@ -32,4 +32,4 @@ You can call AppReview in
 * ViewController.viewDidLoad()
 * View.onAppear()
 
-### Swift Package Manag
+### Swift Package Manage

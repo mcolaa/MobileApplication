@@ -35,4 +35,4 @@ You can call AppReview in
 ### Swift Package Manager
 
 ```
-https:
+https:/

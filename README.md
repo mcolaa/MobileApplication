@@ -35,4 +35,4 @@ You can call AppReview in
 ### Swift Package Manager
 
 ```
-https://github.com/mezhevikin/AppRev
+https://github.com/mezhevikin/AppRevi

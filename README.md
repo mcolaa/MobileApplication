@@ -41,4 +41,4 @@ https://github.com/mezhevikin/AppReview.git
 ### CocoaPods
 
 ```
-po
+pod

@@ -41,4 +41,4 @@ https://github.com/mezhevikin/AppReview.git
 ### CocoaPods
 
 ```
-pod 'AppReview', :git => 'https:
+pod 'AppReview', :git => 'https://gi

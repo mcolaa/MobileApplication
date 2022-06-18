@@ -42,3 +42,4 @@ https://github.com/mezhevikin/AppReview.git
 
 ```
 pod 'AppReview', :git => 'https://github.com/mezhevikin/AppReview.git'
+`

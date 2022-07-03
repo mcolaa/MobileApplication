@@ -4,3 +4,5 @@ import StoreKit
 
 public class AppReview {
     
+    public let minLaunches: Int
+    public let minDays: Int

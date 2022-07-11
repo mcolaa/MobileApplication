@@ -6,3 +6,5 @@ public class AppReview {
     
     public let minLaunches: Int
     public let minDays: Int
+
+    public init(minLaunches: Int = 0, minDays: Int = 0) {

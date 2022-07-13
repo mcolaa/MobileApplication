@@ -12,3 +12,5 @@ public class AppReview {
         self.minDays = minDays
     }
     
+    @discardableResult
+    public static func requestIf(launches: Int = 0, days: Int = 0) -> Bool {

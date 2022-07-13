@@ -11,3 +11,4 @@ public class AppReview {
         self.minLaunches = minLaunches
         self.minDays = minDays
     }
+    

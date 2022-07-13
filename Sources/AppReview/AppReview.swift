@@ -10,3 +10,4 @@ public class AppReview {
     public init(minLaunches: Int = 0, minDays: Int = 0) {
         self.minLaunches = minLaunches
         self.minDays = minDays
+    }

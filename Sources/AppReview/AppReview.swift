@@ -15,3 +15,4 @@ public class AppReview {
     @discardableResult
     public static func requestIf(launches: Int = 0, days: Int = 0) -> Bool {
         AppReview(minLaunches: launches, minDays: days).requestIfNeeded()
+    }

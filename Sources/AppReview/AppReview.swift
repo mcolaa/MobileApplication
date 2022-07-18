@@ -16,3 +16,6 @@ public class AppReview {
     public static func requestIf(launches: Int = 0, days: Int = 0) -> Bool {
         AppReview(minLaunches: launches, minDays: days).requestIfNeeded()
     }
+    
+    private let ud = UserDefaults.standard
+    

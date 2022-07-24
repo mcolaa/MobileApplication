@@ -23,3 +23,5 @@ public class AppReview {
         get { ud.integer(forKey: "AppReviewLaunches") }
         set(value) { ud.set(value, forKey: "AppReviewLaunches") }
     }
+    
+    public var firstLaunchDate: Date? {

@@ -20,3 +20,4 @@ public class AppReview {
     private let ud = UserDefaults.standard
     
     public var launches: Int {
+        get { ud.integer(forKey: "AppReviewLaunches") }

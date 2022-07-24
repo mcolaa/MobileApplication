@@ -22,3 +22,4 @@ public class AppReview {
     public var launches: Int {
         get { ud.integer(forKey: "AppReviewLaunches") }
         set(value) { ud.set(value, forKey: "AppReviewLaunches") }
+    }

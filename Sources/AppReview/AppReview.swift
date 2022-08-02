@@ -25,3 +25,4 @@ public class AppReview {
     }
     
     public var firstLaunchDate: Date? {
+        get { ud.object(forKey: "AppReviewFirstLaunchDate") as? Date }

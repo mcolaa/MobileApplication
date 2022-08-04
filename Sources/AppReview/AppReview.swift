@@ -29,3 +29,4 @@ public class AppReview {
         set(value) { ud.set(value, forKey: "AppReviewFirstLaunchDate") }
     }
     
+    public var lastReviewDate: Date? {

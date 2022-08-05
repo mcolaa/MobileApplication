@@ -34,3 +34,5 @@ public class AppReview {
         set(value) { ud.set(value, forKey: "AppReviewLastReviewDate") }
     }
     
+    public var lastReviewVersion: String? {
+        get { ud.string(forKey: "AppReviewLastReviewVersion") }

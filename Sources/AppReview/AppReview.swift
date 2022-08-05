@@ -30,3 +30,7 @@ public class AppReview {
     }
     
     public var lastReviewDate: Date? {
+        get { ud.object(forKey: "AppReviewLastReviewDate") as? Date }
+        set(value) { ud.set(value, forKey: "AppReviewLastReviewDate") }
+    }
+    

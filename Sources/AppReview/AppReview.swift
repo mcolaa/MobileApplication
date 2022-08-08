@@ -40,3 +40,4 @@ public class AppReview {
     }
     
     public var daysAfterFirstLaunch: Int {
+        if let date = firstLaunchDate {

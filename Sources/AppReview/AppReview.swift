@@ -37,3 +37,6 @@ public class AppReview {
     public var lastReviewVersion: String? {
         get { ud.string(forKey: "AppReviewLastReviewVersion") }
         set(value) { ud.set(value, forKey: "AppReviewLastReviewVersion") }
+    }
+    
+    public var daysAfterFirstLaunch: Int {

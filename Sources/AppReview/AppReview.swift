@@ -44,3 +44,4 @@ public class AppReview {
             return daysBetween(date, Date())
         }
         return 0
+    }

@@ -50,3 +50,4 @@ public class AppReview {
         if let date = lastReviewDate {
             return daysBetween(date, Date())
         }
+        return 0

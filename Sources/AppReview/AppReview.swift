@@ -49,3 +49,4 @@ public class AppReview {
     public var daysAfterLastReview: Int {
         if let date = lastReviewDate {
             return daysBetween(date, Date())
+        }

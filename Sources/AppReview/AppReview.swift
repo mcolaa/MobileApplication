@@ -52,3 +52,4 @@ public class AppReview {
         }
         return 0
     }
+    

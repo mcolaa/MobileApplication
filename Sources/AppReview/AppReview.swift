@@ -53,3 +53,4 @@ public class AppReview {
         return 0
     }
     
+    public var isNeeded: Bool {

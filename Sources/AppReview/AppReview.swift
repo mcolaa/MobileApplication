@@ -56,3 +56,4 @@ public class AppReview {
     public var isNeeded: Bool {
         launches >= minLaunches &&
         daysAfterFirstLaunch >= minDays &&
+        (lastReviewDate == nil || daysAfterLastReview >= 125) &&

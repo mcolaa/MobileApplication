@@ -58,3 +58,4 @@ public class AppReview {
         daysAfterFirstLaunch >= minDays &&
         (lastReviewDate == nil || daysAfterLastReview >= 125) &&
         lastReviewVersion != version
+    }

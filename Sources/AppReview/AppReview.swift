@@ -59,3 +59,5 @@ public class AppReview {
         (lastReviewDate == nil || daysAfterLastReview >= 125) &&
         lastReviewVersion != version
     }
+
+    @discardableResult

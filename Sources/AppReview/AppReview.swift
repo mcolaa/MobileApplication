@@ -63,3 +63,4 @@ public class AppReview {
     @discardableResult
     public func requestIfNeeded() -> Bool {
         if firstLaunchDate == nil { firstLaunchDate = Date() }
+        launches += 1

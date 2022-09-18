@@ -64,3 +64,4 @@ public class AppReview {
     public func requestIfNeeded() -> Bool {
         if firstLaunchDate == nil { firstLaunchDate = Date() }
         launches += 1
+        guard isNeeded else { return false }

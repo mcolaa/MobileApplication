@@ -65,3 +65,4 @@ public class AppReview {
         if firstLaunchDate == nil { firstLaunchDate = Date() }
         launches += 1
         guard isNeeded else { return false }
+        lastReviewDate = Date()

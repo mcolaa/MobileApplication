@@ -66,3 +66,4 @@ public class AppReview {
         launches += 1
         guard isNeeded else { return false }
         lastReviewDate = Date()
+        lastReviewVersion = version

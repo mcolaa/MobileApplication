@@ -68,3 +68,4 @@ public class AppReview {
         lastReviewDate = Date()
         lastReviewVersion = version
         request()
+        return true

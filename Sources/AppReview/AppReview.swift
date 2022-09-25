@@ -67,3 +67,4 @@ public class AppReview {
         guard isNeeded else { return false }
         lastReviewDate = Date()
         lastReviewVersion = version
+        request()

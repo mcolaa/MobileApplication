@@ -71,3 +71,4 @@ public class AppReview {
         return true
     }
     
+    private func request() {

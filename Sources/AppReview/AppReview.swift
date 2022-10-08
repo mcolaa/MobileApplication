@@ -73,3 +73,5 @@ public class AppReview {
     
     private func request() {
         DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
+            #if os(iOS)
+            if #available(iOS 14.0, *) {

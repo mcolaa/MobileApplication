@@ -72,3 +72,4 @@ public class AppReview {
     }
     
     private func request() {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1) {

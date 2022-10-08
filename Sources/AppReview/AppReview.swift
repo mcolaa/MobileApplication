@@ -78,3 +78,5 @@ public class AppReview {
                 if let scene = UIApplication.shared.connectedScenes.first as? UIWindowScene {
                     SKStoreReviewController.requestReview(in: scene)
                 }
+            } else {
+                SKStoreReviewController.requestReview()

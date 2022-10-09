@@ -84,3 +84,4 @@ public class AppReview {
             #else
             SKStoreReviewController.requestReview()
             #endif
+        }

@@ -80,3 +80,6 @@ public class AppReview {
                 }
             } else {
                 SKStoreReviewController.requestReview()
+            }
+            #else
+            SKStoreReviewController.requestReview()

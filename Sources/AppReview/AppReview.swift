@@ -87,3 +87,4 @@ public class AppReview {
         }
     }
     
+    internal var version = Bundle.main.object(

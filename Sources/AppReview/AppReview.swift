@@ -92,3 +92,4 @@ public class AppReview {
     ) as! String
     
     internal func daysBetween(_ start: Date, _ end: Date) -> Int {
+        Calendar.current.dateComponents([.day], from: start, to: end).day!

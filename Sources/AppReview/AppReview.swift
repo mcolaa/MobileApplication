@@ -95,3 +95,4 @@ public class AppReview {
         Calendar.current.dateComponents([.day], from: start, to: end).day!
     }
     
+}

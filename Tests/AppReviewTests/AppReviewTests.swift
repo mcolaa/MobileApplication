@@ -6,3 +6,5 @@ final class AppReviewTests: XCTestCase {
     
     override func setUp() {
         UserDefaults.standard.clear()
+    }
+    

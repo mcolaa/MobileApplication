@@ -8,3 +8,4 @@ final class AppReviewTests: XCTestCase {
         UserDefaults.standard.clear()
     }
     
+    func testReviewWithMinLaunches() throws {

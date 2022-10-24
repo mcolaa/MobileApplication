@@ -9,3 +9,6 @@ final class AppReviewTests: XCTestCase {
     }
     
     func testReviewWithMinLaunches() throws {
+        let review = AppReview(minLaunches: 3)
+        
+        // Before

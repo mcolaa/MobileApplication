@@ -12,3 +12,4 @@ final class AppReviewTests: XCTestCase {
         let review = AppReview(minLaunches: 3)
         
         // Before
+        XCTAssertEqual(review.launches, 0)

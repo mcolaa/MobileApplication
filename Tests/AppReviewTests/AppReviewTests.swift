@@ -18,3 +18,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertNil(review.lastReviewVersion)
         
         // Launch 1
+        XCTAssertFalse(review.requestIfNeeded())

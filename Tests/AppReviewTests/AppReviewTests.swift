@@ -22,3 +22,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertEqual(review.launches, 1)
         XCTAssertNotNil(review.firstLaunchDate)
         
+        // Launch 2

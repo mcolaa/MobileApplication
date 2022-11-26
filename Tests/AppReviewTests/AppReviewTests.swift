@@ -23,3 +23,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertNotNil(review.firstLaunchDate)
         
         // Launch 2
+        XCTAssertFalse(review.requestIfNeeded())

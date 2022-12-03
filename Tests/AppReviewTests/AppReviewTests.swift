@@ -30,3 +30,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertTrue(review.requestIfNeeded())
         XCTAssertEqual(review.launches, 3)
         XCTAssertNotNil(review.lastReviewDate)
+        XCTAssertNotNil(review.lastReviewVersion)

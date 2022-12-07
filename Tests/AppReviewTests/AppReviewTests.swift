@@ -32,3 +32,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertNotNil(review.lastReviewDate)
         XCTAssertNotNil(review.lastReviewVersion)
         
+        // Launch 4

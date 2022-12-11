@@ -34,3 +34,5 @@ final class AppReviewTests: XCTestCase {
         
         // Launch 4
         XCTAssertFalse(review.requestIfNeeded())
+        XCTAssertEqual(review.launches, 4)
+    }

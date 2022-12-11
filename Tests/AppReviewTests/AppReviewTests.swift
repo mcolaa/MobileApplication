@@ -37,3 +37,5 @@ final class AppReviewTests: XCTestCase {
         XCTAssertEqual(review.launches, 4)
     }
     
+    func testReviewWithMinDays() throws {
+        let now = Date()

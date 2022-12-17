@@ -40,3 +40,4 @@ final class AppReviewTests: XCTestCase {
     func testReviewWithMinDays() throws {
         let now = Date()
         
+        let review = AppReview(minLaunches: 3, minDays: 5)

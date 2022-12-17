@@ -41,3 +41,4 @@ final class AppReviewTests: XCTestCase {
         let now = Date()
         
         let review = AppReview(minLaunches: 3, minDays: 5)
+        

@@ -50,3 +50,5 @@ final class AppReviewTests: XCTestCase {
         
         // Launch 1
         XCTAssertFalse(review.requestIfNeeded())
+        XCTAssertEqual(review.launches, 1)
+        XCTAssertNotNil(review.firstLaunchDate)

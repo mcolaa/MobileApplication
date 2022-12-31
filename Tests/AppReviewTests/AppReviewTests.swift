@@ -57,3 +57,5 @@ final class AppReviewTests: XCTestCase {
         XCTAssertEqual(review.daysAfterFirstLaunch, 0)
         
         // Launch 2 in 4 days after first launch
+        review.firstLaunchDate = now.shiftDays(-4)
+        XCTAssertFalse(review.requestIfNeeded())

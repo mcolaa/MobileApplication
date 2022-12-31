@@ -55,3 +55,5 @@ final class AppReviewTests: XCTestCase {
         XCTAssertNil(review.lastReviewDate)
         XCTAssertNil(review.lastReviewVersion)
         XCTAssertEqual(review.daysAfterFirstLaunch, 0)
+        
+        // Launch 2 in 4 days after first launch

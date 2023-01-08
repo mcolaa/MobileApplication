@@ -74,3 +74,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertNotNil(review.lastReviewDate)
         XCTAssertNotNil(review.lastReviewVersion)
         
+        // Launch 5 in 125 days after last review

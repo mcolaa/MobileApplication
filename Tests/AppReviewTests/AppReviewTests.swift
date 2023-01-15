@@ -78,3 +78,4 @@ final class AppReviewTests: XCTestCase {
         review.lastReviewDate = now.shiftDays(-125)
         XCTAssertFalse(review.requestIfNeeded())
         XCTAssertEqual(review.launches, 5)
+        XCTAssertEqual(review.daysAfterLastReview, 125)

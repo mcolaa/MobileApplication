@@ -81,3 +81,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertEqual(review.daysAfterLastReview, 125)
         
         // Launch 6 in 125 days after last review and app update ✅
+        review.version = "1.0.1"

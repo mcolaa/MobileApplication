@@ -84,3 +84,4 @@ final class AppReviewTests: XCTestCase {
         review.version = "1.0.1"
         let lastReviewDate = review.lastReviewDate
         XCTAssertTrue(review.requestIfNeeded())
+        XCTAssertEqual(review.launches, 6)

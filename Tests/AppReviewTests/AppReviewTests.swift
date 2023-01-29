@@ -82,3 +82,5 @@ final class AppReviewTests: XCTestCase {
         
         // Launch 6 in 125 days after last review and app update ✅
         review.version = "1.0.1"
+        let lastReviewDate = review.lastReviewDate
+        XCTAssertTrue(review.requestIfNeeded())

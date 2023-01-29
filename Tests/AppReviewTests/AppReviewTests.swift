@@ -79,3 +79,5 @@ final class AppReviewTests: XCTestCase {
         XCTAssertFalse(review.requestIfNeeded())
         XCTAssertEqual(review.launches, 5)
         XCTAssertEqual(review.daysAfterLastReview, 125)
+        
+        // Launch 6 in 125 days after last review and app update ✅

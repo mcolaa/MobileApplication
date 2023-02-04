@@ -87,3 +87,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertEqual(review.launches, 6)
         XCTAssertNotEqual(review.lastReviewDate, lastReviewDate)
         
+        // Launch 7

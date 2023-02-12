@@ -92,3 +92,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertEqual(review.launches, 7)
     }
     
+    func testRequestIf() throws {

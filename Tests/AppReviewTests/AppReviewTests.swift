@@ -94,3 +94,4 @@ final class AppReviewTests: XCTestCase {
     
     func testRequestIf() throws {
         XCTAssertFalse(AppReview.requestIf(launches: 3, days: 0))
+        XCTAssertFalse(AppReview.requestIf(launches: 3))

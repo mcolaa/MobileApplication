@@ -96,3 +96,5 @@ final class AppReviewTests: XCTestCase {
         XCTAssertFalse(AppReview.requestIf(launches: 3, days: 0))
         XCTAssertFalse(AppReview.requestIf(launches: 3))
         XCTAssertTrue(AppReview.requestIf(launches: 3))
+    }
+    

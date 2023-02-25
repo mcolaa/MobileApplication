@@ -98,3 +98,4 @@ final class AppReviewTests: XCTestCase {
         XCTAssertTrue(AppReview.requestIf(launches: 3))
     }
     
+}

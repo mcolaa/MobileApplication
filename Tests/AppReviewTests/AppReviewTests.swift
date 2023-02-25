@@ -99,3 +99,5 @@ final class AppReviewTests: XCTestCase {
     }
     
 }
+
+private extension UserDefaults {

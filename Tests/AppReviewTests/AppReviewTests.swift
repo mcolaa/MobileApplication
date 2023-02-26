@@ -103,3 +103,6 @@ final class AppReviewTests: XCTestCase {
 private extension UserDefaults {
     func clear() {
         for key in dictionaryRepresentation().keys {
+            removeObject(forKey: key)
+        }
+    }

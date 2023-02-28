@@ -106,3 +106,4 @@ private extension UserDefaults {
             removeObject(forKey: key)
         }
     }
+}

@@ -112,3 +112,4 @@ private extension Date {
     func shiftDays(_ shift: Int) -> Date {
         Calendar.current.date(byAdding: .day, value: shift, to: self)!
     }
+}
